@@ -1,1 +1,2 @@
-hello
+#이름 : 강지은
+print ("hello")
